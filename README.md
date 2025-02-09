@@ -18,7 +18,7 @@ First, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/s1mon0v/wayback-url-fetcher.git
-cd wayback-url-fetch
+cd wayback-url-fetcher
 ```
 ### Make the script executable:
 
